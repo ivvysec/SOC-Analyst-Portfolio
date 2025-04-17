@@ -7,13 +7,13 @@ Currently I'm studying Cybersecurity, focused on tools like SIEM, Log Analysis a
 ## Investigation Cases
 Here are some scenarios that I have performed, showing how to detected, analyze and respond to security incidents. Each case includes evidence such as Screenshots of alerts, logs and the adopted solution.
 
-- [Case 1: XXXXXXXXX](investigation_cases/caso_1_investigation.md)
+- [Case 1: XXXXXXXXX](investigation_cases/case_1_investigation.md)
 - [Case 2: XXXXXXXXX](investigation_cases/case_2_investigation.md)
 
 ## Imagens
 Here you can check images and screenshots about investigated cases
 
-- [Alert Print - Case 1](imagens/case1_alerta.png)
+- [Alert Print - Case 1](imagens/case_1_alerta.png)
 - [Log Print - Case 2](imagens/case_2_log.png)
 
 ## Contact
