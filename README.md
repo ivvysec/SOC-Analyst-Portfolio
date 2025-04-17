@@ -1,17 +1,20 @@
-# Portfólio de SOC Analyst
+# SOC Analyst Portfolio
 
-Olá! Sou [Teu Nome], um analista de segurança com foco em SOC e Blue Team. Este portfólio contém simulações de investigações, análises de alertas e incidentes de segurança que realizei, com o objetivo de demonstrar minhas habilidades em segurança cibernética.
+Hello! I'm Alison, a security analyst focused on SOC and Blue Team. This portfolio contains simulations of investigations, alert analysis and security incidents that I have performed, with the aim of demonstrating my cybersecurity skills.
 
-Atualmente estou estudando cibersegurança, com foco em ferramentas como SIEM, análise de logs e resposta a incidentes. Neste repositório, você encontrará os seguintes tópicos:
+Currently I'm studying Cybersecurity, focused on tools like SIEM, Log Analysis and Incident Responce. In this repository, you will find the following topics: 
 
-## Casos de Investigação
+## Investigation Cases
+Here are some scenarios that I have performed, showing how to detected, analyze and respond to security incidents. Each case includes evidence such as Screenshots of alerts, logs and the adopted solution.
 
+- [Case 1: XXXXXXXXX](investigation_cases/caso_1_investigation.md)
+- [Case 2: XXXXXXXXX](investigation_cases/case_2_investigation.md)
 
 ## Imagens
-Aqui você pode conferir imagens e prints de tela de casos analisados.
+Here you can check images and screenshots about investigated cases
 
-- [Print do Alerta - Caso 1](imagens/caso_1_alerta.png)
-- [Print do Log - Caso 2](imagens/caso_2_log.png)
+- [Alert Print - Case 1](imagens/case1_alerta.png)
+- [Log Print - Case 2](imagens/case_2_log.png)
 
-## Contato
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/alisson-port0/)
